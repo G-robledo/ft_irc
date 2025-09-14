@@ -1,0 +1,19 @@
+Welcome to ft_irc! 
+This IRC server is part of the 42 school project.
+Maintained by: momillio@student.42perpipgnan.fr and grobledo@student.42perpipgnan.fr
+**********************************************************************
+Server Info:
+-> Custom C++ IRC server, RFC 1459 compliant (or trying really hard).
+-> Expect bugs... and love 
+**********************************************************************
+Rules:
+-> Be respectful to others.
+-> No flooding, spamming, or bots that take over the world.
+-> Keep it clean. This is still a school project!
+**********************************************************************
+Need help?
+-> Type /help (it won’t do much... but it's comforting)
+-> Or just ask your teammate who broke everything.
+**********************************************************************
+Have fun and may your segfaults be few!
+**********************************************************************
